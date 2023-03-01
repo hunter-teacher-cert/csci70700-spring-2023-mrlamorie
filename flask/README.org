@@ -2,7 +2,9 @@
 
 
   
-** If you are completing the homework for this unit:
+** Updated for Sessions and Forms:
+** There is a visit counter for each page on every page other than the form.
+** The form will only move past the form when your total donation of cold ones is sufficent.
 
 My hw replit:
 https://replit.com/@mrlamorie/flaskHW
@@ -12,7 +14,10 @@ index.html:
 about.html:
 '/about'
 lucky.html:
-'/lucky.html'
+'/lucky'
 data.html:
-'/data.html'
-
+'/data'
+form.html:
+'/form'
+party.html:
+'/form'
